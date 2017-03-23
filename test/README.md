@@ -1,4 +1,4 @@
-#Running all tests
+#Running all tests for the tutorial
 From the root directory of your project (or where gulpfile.js is located), run:
   `$ gulp dev-unit`
 
